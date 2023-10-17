@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{2CB68293-FC8A-4A97-A1F2-F10654359C98}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="API/Model/Customer.cs">
+    <Files>
+      <File FileName="API/App.cs" Line="78" Column="10" />
+      <File FileName="API/Program.cs" Line="22" Column="69" />
+      <File FileName="API/Model/Customer.cs" Line="15" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="API" expanded="True">
+            <Node name="Solution Items" expanded="True" />
+            <Node name="API" expanded="True">
+              <Node name="Config" expanded="True" />
+              <Node name="Model" expanded="True">
+                <Node name="Customer.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.API PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
